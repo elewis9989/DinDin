@@ -1,0 +1,27 @@
+{
+	"Events": [
+			{
+				"id": 0, 
+				"host": 1, 
+				"time": {
+					"hour": "8",
+					"minutes": "00", 
+					"am_pm": "pm"
+				},
+				"date": {
+					"month": "April", 
+					"day": "17", 
+					"year": "2019"
+				},
+				"location": {
+					"address": "953 Emmet St N, Charlottesville, VA 22903",
+					"long": null, 
+					"lat": null
+				},
+				"pending": true,
+				"guests":[0]
+				
+			}
+			
+		]
+}
